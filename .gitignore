@@ -4,11 +4,9 @@
 /databases/*
 /figures/*
 /out/*
-/tables/*
 
 # ignore resources directory
-/resources
-!/resources/useful_commands.txt # except this file inherited from template
+/resources/*
 
 # ignore system files
 .DS_Store
